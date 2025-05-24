@@ -1,1 +1,9 @@
-body {color: pink;}
+body {
+    background-color: #06182D;
+    color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
